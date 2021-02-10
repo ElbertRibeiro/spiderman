@@ -16,6 +16,7 @@ header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+
 }
 
 .nav-list {
@@ -24,6 +25,11 @@ header {
 
     li {
         margin-left: 24px;
+    }
+
+
+    @include responsive() {
+        display: none;
     }
 }
 
@@ -68,6 +74,22 @@ header {
     }
 }
 
+.bx {
+   
+    width: 48px;
+    height: 48px;
+
+    background-color: $white;
+
+    border-radius: 8px;
+    display: none;
+
+    @include responsive(){
+        display: block;
+    }
+    
+}
+
 .nav-social {
     display: flex;
 
@@ -87,5 +109,10 @@ header {
                 transform: translate3d(0, -3px, 0);
             }
         }
+    }
+
+
+    @include responsive() {
+        display: none;
     }
 }
