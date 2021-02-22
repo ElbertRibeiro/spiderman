@@ -142,25 +142,16 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-Elbert Ribeiro - [@elbertnilton](https://instagram.com/elbertnilton) - [elbertprofissional@gmail.com](mailto:elbertprofissional@gmail.com)
+Elbert Ribeiro - 
 
-Project Link: [https://github.com/ElbertRibeiro/todo-list-electronJS](https://github.com/ElbertRibeiro/spiderman)
-
+- [Instagram: @elbertnilton](https://instagram.com/elbertnilton) 
+- [E-mail: elbertprofissional@gmail.com](mailto:elbertprofissional@gmail.com)
 
 
 
 ## Referências
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 * [Readme](https://github.com/othneildrew/Best-README-Template)
 * [Project](https://github.com/nyousefali/youtube/tree/master/spiderman)
 * [Site Exemple](https://nyousefali.com.br/spiderman/)
