@@ -24,9 +24,9 @@
     <br />
     <a href="https://elbertribeiro.github.io/spiderman/">View Demo</a>
     ·
-    <a href="https://github.com/elbertRibeiro/spiderman/issues/new">Report Bug</a>
+    <a href="https://github.com/ElbertRibeiro/spiderman/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
     ·
-    <a href="https://github.com/elbertribeiro/spiderman/issues">Request Feature</a>
+    <a href="https://github.com/ElbertRibeiro/spiderman/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
   </p>
 </p>
 
