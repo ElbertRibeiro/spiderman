@@ -66,9 +66,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Electron JS](https://www.electronjs.org/)
-* [Electron Reload](https://github.com/yan-foto/electron-reload#readme)
+
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [SASS](https://sass-lang.com/)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
 
@@ -160,8 +161,7 @@ Elbert Ribeiro -
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/elbertribeiro/spiderman.svg?style=flat-square
 [contributors-url]: https://github.com/elbertribeiro/spiderman/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/elbertribeiro/spiderman.svg?style=flat-square
@@ -175,4 +175,3 @@ Elbert Ribeiro -
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/elbert-ribeiro/
 [product-screenshot]: .github/Modelo.png
-
